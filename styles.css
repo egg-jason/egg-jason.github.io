@@ -41,6 +41,12 @@ iframe {
     width: 500px
 }
 
+.aboutme{
+    position: absolute;
+    bottom: 10px;
+    left:10px;
+}
+
 
 /*aboutme.html*/
 .instagram {
