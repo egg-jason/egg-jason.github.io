@@ -37,18 +37,14 @@ iframe {
 
 .undercon{
     position: absolute;
-    top: 5px;
-    width: 500px
+    width: 500px;
+    bottom: 8px;
+    left: auto;
+    right: auto;
 }
 
-.aboutme{
+.icon{
     position: absolute;
     bottom: 10px;
     left:10px;
-}
-
-
-/*aboutme.html*/
-.instagram {
-    width: 100px;
 }
